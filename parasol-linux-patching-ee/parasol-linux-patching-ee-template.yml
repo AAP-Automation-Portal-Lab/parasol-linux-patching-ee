@@ -2,8 +2,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: acme-linux-patching-ee
-  title: acme-linux-patching-ee
+  name: parasol-linux-patching-ee
+  title: parasol-linux-patching-ee
   description: "Linux system patching and compliance EE"
   annotations:
     ansible.io/saved-template: 'true'
